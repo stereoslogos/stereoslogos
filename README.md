@@ -4,7 +4,7 @@
 <p align="center">I work as a front-end developer for e-commerce stores and oftenly do freelancing.</p>
 
 
-## 🙋‍♂️ About Me
+## 🦇 About Me
 
 - 👨‍💻 I’m currently working on **[My Portfolio](https://bigztar.com)**
 
@@ -12,7 +12,7 @@
 
 - ⚡ Nice to know, **I make music.**
 
-## 🚀 Languages and Tools:
+## ⚙️ Languages and Tools:
 
 <p align="left">
     <a href="#" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/console.png"/></a>
