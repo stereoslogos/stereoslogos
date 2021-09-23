@@ -1,6 +1,7 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm stéreoslógos   </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm stéreoslógos  
+<img src="https://raw.githubusercontent.com/stereoslogos/stereoslogos/main/bat.gif" align="center" width="30px"></h1>
 <h3 align="center">I'm a developer and UX/UI designer.</h3>
-<img src="https://raw.githubusercontent.com/stereoslogos/stereoslogos/main/bat.gif" align="center" width="30px">
+
 
 ## 🙋‍♂️ About Me
 
