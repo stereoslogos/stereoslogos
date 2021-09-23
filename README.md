@@ -1,6 +1,7 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm stéreoslógos  
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm stéreoslógos  
 <img src="https://raw.githubusercontent.com/stereoslogos/stereoslogos/main/bat.gif" align="center" width="30px"></h1>
-<h3 align="center">I'm a developer and UX/UI designer.</h3>
+<h3 align="center">I'm a developer and UX/UI designer. My first HTML and CSS lines were for myspace. Not sure if you remember Tom. 🤔</h3>
+<p>I work as a front-end developer for e-commerce stores and oftenly do freelancing.</p>
 
 
 ## 🙋‍♂️ About Me
@@ -13,7 +14,11 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="left">
+    <a href="#" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/console.png"/></a>
+    <a href="https://www.linux.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/linux--v1.png"/></a>
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
+    <a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/offices/50/000000/php-logo.png"/></a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
