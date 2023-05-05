@@ -63,12 +63,12 @@
 
 <a href = "https://www.linkedin.com/in/sebastian-ochoa-mazo/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/stereoslogos"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/stereoslogos/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/b1gztar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
 ## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=b1gztar">
+    <img src="https://komarev.com/ghpvc/?username=stereosogos">
 </a>
 <a href="https://github.com/stereoslogos?tab=followers"><img src="https://img.shields.io/github/followers/stereoslogos?label=Followers&style=social" alt="GitHub Badge"></a>
