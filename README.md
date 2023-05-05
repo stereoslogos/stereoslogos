@@ -69,6 +69,6 @@
 
 ## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=stereosogos">
+    <img src="https://komarev.com/ghpvc/?username=stereoslogos">
 </a>
 <a href="https://github.com/stereoslogos?tab=followers"><img src="https://img.shields.io/github/followers/stereoslogos?label=Followers&style=social" alt="GitHub Badge"></a>
